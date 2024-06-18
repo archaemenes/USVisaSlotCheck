@@ -18,7 +18,7 @@ To run script on local system, add CHAT_ID variable in bot.py. Get chat id from 
 
 ``` nohup bash automate.sh > automate.log &```
 
-For backup scripts to run make sure directories slots_df and screenshots exist
+For backup scripts to run make sure directories slots_df and screenshots exist in working directory before running, add paths wherever necessary.
 
 
 > ~ fin by @archaemenes
