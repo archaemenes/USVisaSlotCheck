@@ -1,2 +1,2 @@
 # USVisaSlotCheck
-Get Notifications about USA visa slot availability.
+Telegram bot to get notifications about USA visa slot availability.
