@@ -1,5 +1,5 @@
 # USVisaSlotCheck
-Automation in python using a telegram bot to get notifications about USA visa slot availability in June and July of 2024, can be modified to suit your needs.
+Automation in python using a telegram bot to get notifications about USA F1 visa slot availability(India) in June and July of 2024, can be modified to suit your needs.
 
 ~ To get notifications join @junejulyvisaslot_bot to your telegram group.
 
