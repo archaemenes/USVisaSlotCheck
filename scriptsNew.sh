@@ -1,7 +1,7 @@
 
 #!/usr/bin/bash
-DIR='/home/archaemenes/software/automation'
-PYTHON='/home/archaemenes/anaconda3/envs/vfs/bin/python'
+DIR='/home/archaemenes/software/automation' # add your working directory
+PYTHON='/home/archaemenes/anaconda3/envs/vfs/bin/python' # add python path
 stamp=`date +"%d%m%Y_%H.%M"`
 
 echo "#########################################" &&
