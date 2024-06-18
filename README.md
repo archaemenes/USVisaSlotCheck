@@ -1,7 +1,7 @@
 # USVisaSlotCheck
 Automation in python using a telegram bot to get notifications about USA visa slot availability in June and July of 2024, can be modified to suit your needs.
 
-~ To get notifications add @junejulyvisaslot_bot to your telegram group.
+~ To get notifications join @junejulyvisaslot_bot to your telegram group.
 
 
 ```conda install -n vfsEnv python=3.8```
@@ -14,7 +14,7 @@ Install chromium version 127 beta for driver support.
 
 ```sudo apt install tesseract-ocr```
 
-To run script on local system
+To run script on local system, add CHAT_ID variable in bot.py. Get chat id from @getidsbot in telegram.
 
 ``` nohup bash automate.sh > automate.log &```
 
